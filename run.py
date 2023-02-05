@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("a").Subscraption()
+    __import__("momo").premium()
 except Exception as e:
     exit(str(e))
  
