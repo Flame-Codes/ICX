@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("rata").menu()
+    __import__("fk").menu()
 except Exception as e:
     exit(str(e))
  
